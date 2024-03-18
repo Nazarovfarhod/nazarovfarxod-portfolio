@@ -67,8 +67,14 @@ const projects = [
   },
   {
     title: "Gabrielle Essence Eau De Parfum",
-    githubLink: "https://github.com/Nazarovfarhod/Gabrielle-Essence-Eau-De-Parfum.git",
+    githubLink:
+      "https://github.com/Nazarovfarhod/Gabrielle-Essence-Eau-De-Parfum.git",
     vercelLink: "https://gabrielle-essence-eau-de-parfum-ten.vercel.app/",
+  },
+  {
+    title: "Make remote work",
+    githubLink: "https://github.com/Nazarovfarhod/Make-remote-work.git",
+    vercelLink: "https://make-remote-work.vercel.app/",
   },
 ];
 
