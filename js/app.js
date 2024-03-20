@@ -76,6 +76,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/Make-remote-work.git",
     vercelLink: "https://make-remote-work.vercel.app/",
   },
+  {
+    title: "Splitter",
+    githubLink: "https://github.com/Nazarovfarhod/tip-calculator.git",
+    vercelLink: "https://tip-calculator-wheat-psi.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
