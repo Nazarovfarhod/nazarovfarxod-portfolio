@@ -81,6 +81,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/tip-calculator.git",
     vercelLink: "https://tip-calculator-wheat-psi.vercel.app/",
   },
+  {
+    title: "MOTHER NATURE",
+    githubLink: "https://github.com/Nazarovfarhod/bg-video.git",
+    vercelLink: "https://bg-video-three.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
