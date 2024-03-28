@@ -86,6 +86,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/bg-video.git",
     vercelLink: "https://bg-video-three.vercel.app/",
   },
+  {
+    title: "CASTAWAY",
+    githubLink: "https://github.com/Nazarovfarhod/Castaway.git",
+    vercelLink: "https://castaway-ten-orpin.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
