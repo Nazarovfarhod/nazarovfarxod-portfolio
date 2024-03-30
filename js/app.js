@@ -91,6 +91,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/Castaway.git",
     vercelLink: "https://castaway-ten-orpin.vercel.app/",
   },
+  {
+    title: "CREATE-X",
+    githubLink: "https://github.com/Nazarovfarhod/create-x.git",
+    vercelLink: "https://create-x-2i6r.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
