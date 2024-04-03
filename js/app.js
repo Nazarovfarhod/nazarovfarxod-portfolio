@@ -96,6 +96,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/create-x.git",
     vercelLink: "https://create-x-2i6r.vercel.app/",
   },
+  {
+    title: "ANIMATIONS",
+    githubLink: "https://8-dars-pearl.vercel.app/",
+    vercelLink: "https://github.com/Nazarovfarhod/8-dars.git",
+  },
 ];
 
 const template = document.querySelector("template");
