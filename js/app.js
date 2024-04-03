@@ -98,8 +98,8 @@ const projects = [
   },
   {
     title: "ANIMATIONS",
-    githubLink: "https://8-dars-pearl.vercel.app/",
-    vercelLink: "https://github.com/Nazarovfarhod/8-dars.git",
+    githubLink: "https://github.com/Nazarovfarhod/8-dars.git",
+    vercelLink: "https://8-dars-pearl.vercel.app/",
   },
 ];
 
