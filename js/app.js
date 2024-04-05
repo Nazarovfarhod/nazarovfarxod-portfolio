@@ -102,7 +102,7 @@ const projects = [
     vercelLink: "https://8-dars-pearl.vercel.app/",
   },
   {
-    title: "ANIMATIONS",
+    title: "CROWDFUND",
     githubLink: "https://github.com/Nazarovfarhod/CROWDFUND.git",
     vercelLink: "https://crowdfund-coral.vercel.app/",
   },
