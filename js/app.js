@@ -106,6 +106,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/CROWDFUND.git",
     vercelLink: "https://crowdfund-coral.vercel.app/",
   },
+  {
+    title: "MY TEAM",
+    githubLink: "https://github.com/Nazarovfarhod/MY-TEAM.git",
+    vercelLink: "https://my-team-nine-bice.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
