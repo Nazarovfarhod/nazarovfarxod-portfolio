@@ -111,6 +111,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/MY-TEAM.git",
     vercelLink: "https://my-team-nine-bice.vercel.app/",
   },
+  {
+    title: "PROMPT__JS",
+    githubLink: "https://github.com/Nazarovfarhod/4.2-DARS-JS.git",
+    vercelLink: "https://4-2-dars-js.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
