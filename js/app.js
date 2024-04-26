@@ -126,6 +126,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/4-dars.for-js.git",
     vercelLink: "https://4-dars-for-js.vercel.app/",
   },
+  {
+    title: "5-dars FUNCTION",
+    githubLink: "https://github.com/Nazarovfarhod/5-dars.FUNCTION.git",
+    vercelLink: "https://5-dars-function-five.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
