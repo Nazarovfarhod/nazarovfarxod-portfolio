@@ -128,13 +128,13 @@ const projects = [
   },
   {
     title: "5-dars FUNCTION",
-    githubLink: "https://github.com/Nazarovfarhod/6-dars-figma.git",
-    vercelLink: "https://6-dars-figma.vercel.app/",
+    githubLink: "https://github.com/Nazarovfarhod/5-dars.FUNCTION.git",
+    vercelLink: "https://5-dars-function-five.vercel.app/",
   },
   {
     title: "6-dars FIGMA",
-    githubLink: "https://github.com/Nazarovfarhod/5-dars.FUNCTION.git",
-    vercelLink: "https://5-dars-function-five.vercel.app/",
+    githubLink: "https://github.com/Nazarovfarhod/6-dars-figma.git",
+    vercelLink: "https://6-dars-figma.vercel.app/",
   },
 ];
 
