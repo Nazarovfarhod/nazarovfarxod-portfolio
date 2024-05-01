@@ -136,6 +136,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/6-dars-figma.git",
     vercelLink: "https://6-dars-figma.vercel.app/",
   },
+  {
+    title: "7-dars Masalalari",
+    githubLink: "https://github.com/Nazarovfarhod/7-dars.Masalalari.git",
+    vercelLink: "https://7-dars-masalalari.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
