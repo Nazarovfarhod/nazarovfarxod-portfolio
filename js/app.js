@@ -161,6 +161,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/12-dars-IMTIHON.git",
     vercelLink: "https://12-dars-imtihon-alpha.vercel.app/",
   },
+  {
+    title: "5-oy/2-dars MODAL Amalyot(About BMW.)",
+    githubLink: "https://github.com/Nazarovfarhod/2-dars-modalAmalyot.git",
+    vercelLink: "https://2-dars-modal-amalyot.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
