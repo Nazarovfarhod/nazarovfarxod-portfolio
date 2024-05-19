@@ -166,6 +166,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/2-dars-modalAmalyot.git",
     vercelLink: "https://2-dars-modal-amalyot.vercel.app/",
   },
+  {
+    title: "5-oy/3-dars Amalyotlari",
+    githubLink: "https://github.com/Nazarovfarhod/5-3-dars-1-2-AMALIYOTLAR.git",
+    vercelLink: "https://5-3-dars-1-2-amaliyotlar.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
