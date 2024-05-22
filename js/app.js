@@ -177,6 +177,12 @@ const projects = [
       "https://github.com/Nazarovfarhod/Dicee-Challenge---Starting-Files.git",
     vercelLink: "https://dicee-challenge-starting-files-seven.vercel.app/",
   },
+  {
+    title: "5-oy/4-dars Vazifasi 'Drum Kit' game.",
+    githubLink: "https://github.com/Nazarovfarhod/Drum-Kit-Starting-Files.git",
+    vercelLink:
+      "https://drum-kit-starting-files-22m88ofnr-farkhods-projects-f7ec9421.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
