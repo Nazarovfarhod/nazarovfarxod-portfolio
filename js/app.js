@@ -180,8 +180,7 @@ const projects = [
   {
     title: "5-oy/4-dars Vazifasi 'Drum Kit' game.",
     githubLink: "https://github.com/Nazarovfarhod/Drum-Kit-Starting-Files.git",
-    vercelLink:
-      "https://drum-kit-starting-files-22m88ofnr-farkhods-projects-f7ec9421.vercel.app/",
+    vercelLink: "https://drum-kit-starting-files-kappa.vercel.app/",
   },
 ];
 
