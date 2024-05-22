@@ -171,6 +171,12 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/5-3-dars-1-2-AMALIYOTLAR.git",
     vercelLink: "https://5-3-dars-1-2-amaliyotlar.vercel.app/",
   },
+  {
+    title: "Dicee-Challenge",
+    githubLink:
+      "https://github.com/Nazarovfarhod/Dicee-Challenge---Starting-Files.git",
+    vercelLink: "https://dicee-challenge-starting-files-seven.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
