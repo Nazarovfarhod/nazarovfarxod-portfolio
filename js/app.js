@@ -182,6 +182,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/Drum-Kit-Starting-Files.git",
     vercelLink: "https://drum-kit-starting-files-kappa.vercel.app/",
   },
+  {
+    title: "5/5-dars Audio player.",
+    githubLink: "https://github.com/Nazarovfarhod/Top-Musics.git",
+    vercelLink: "https://top-musics.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
