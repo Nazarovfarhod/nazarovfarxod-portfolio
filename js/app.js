@@ -187,6 +187,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/Top-Musics.git",
     vercelLink: "https://top-musics.vercel.app/",
   },
+  {
+    title: "5/6-dars Gues my number",
+    githubLink: "https://github.com/Nazarovfarhod/Guss-my-number.git",
+    vercelLink: "https://guss-my-number.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
