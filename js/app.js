@@ -192,6 +192,13 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/Guss-my-number.git",
     vercelLink: "https://guss-my-number.vercel.app/",
   },
+  {
+    title: "5/7-dars, Liner Gradiend with degree and code",
+    githubLink:
+      "https://github.com/Nazarovfarhod/7-dars-Liner-Gradient-with-degree-and-code.git",
+    vercelLink:
+      "https://7-dars-liner-gradient-with-degree-and-code.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
