@@ -199,6 +199,11 @@ const projects = [
     vercelLink:
       "https://7-dars-liner-gradient-with-degree-and-code.vercel.app/",
   },
+  {
+    title: "5/7-dars To-do ",
+    githubLink: "https://github.com/Nazarovfarhod/to-do.git",
+    vercelLink: "https://to-do-nine-henna.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
