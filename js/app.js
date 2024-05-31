@@ -204,6 +204,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/to-do.git",
     vercelLink: "https://to-do-nine-henna.vercel.app/",
   },
+  {
+    title: "5/8-dars Dice game ",
+    githubLink: "https://github.com/Nazarovfarhod/dice-game.git",
+    vercelLink: "https://dice-game-seven-orpin.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
