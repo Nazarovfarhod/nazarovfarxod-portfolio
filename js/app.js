@@ -220,5 +220,5 @@ projects.forEach((project) => {
   linkGithub.href = project.githubLink;
   linkVercel.href = project.vercelLink;
 
-  worksList.appendChild(clone);
+  worksList.prepend(clone);
 });
