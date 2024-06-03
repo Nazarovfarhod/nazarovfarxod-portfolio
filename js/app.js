@@ -209,6 +209,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/dice-game.git",
     vercelLink: "https://dice-game-seven-orpin.vercel.app/",
   },
+  {
+    title: "5/9-dars Random User",
+    githubLink: "https://github.com/Nazarovfarhod/random-user.git",
+    vercelLink: "https://random-user-ashen-chi.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
