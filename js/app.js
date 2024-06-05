@@ -214,6 +214,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/random-user.git",
     vercelLink: "https://random-user-ashen-chi.vercel.app/",
   },
+  {
+    title: "5/10-dars Weather App",
+    githubLink: "https://github.com/Nazarovfarhod/weather-app.git",
+    vercelLink: "https://weather-app-peach-theta.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
