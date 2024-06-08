@@ -219,6 +219,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/weather-app.git",
     vercelLink: "https://weather-app-peach-theta.vercel.app/",
   },
+  {
+    title: "5/11-dars FN Shop",
+    githubLink: "https://github.com/Nazarovfarhod/FN-shop.git",
+    vercelLink: "https://fn-shop.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
