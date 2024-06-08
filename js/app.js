@@ -221,8 +221,8 @@ const projects = [
   },
   {
     title: "5/11-dars FN Shop",
-    githubLink: "https://github.com/Nazarovfarhod/FN-shop.git",
-    vercelLink: "https://fn-shop.vercel.app/",
+    githubLink: "https://github.com/Nazarovfarhod/FN-shop-p.git",
+    vercelLink: "https://fn-shop-p.vercel.app/",
   },
 ];
 
