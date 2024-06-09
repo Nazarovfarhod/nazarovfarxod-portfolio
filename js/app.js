@@ -224,6 +224,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/FN-shop-p.git",
     vercelLink: "https://fn-shop-p.vercel.app/",
   },
+  {
+    title: "5/12-dars Imtihon",
+    githubLink: "https://github.com/Nazarovfarhod/FN-shop-p-main.git",
+    vercelLink: "https://fn-shop-p-main.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
