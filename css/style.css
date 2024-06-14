@@ -87,6 +87,24 @@ body {
   -moz-box-shadow: 4px -1px 12px 0px rgba(0, 0, 0, 0.48);
 }
 
+.telegram {
+  color: #ffffff;
+  font-size: large;
+}
+
+.personal-info__description {
+  margin-bottom: 20px;
+}
+.personal-info-link {
+  width: 250px;
+  font-size: small;
+  text-align: center;
+  color: blue;
+  letter-spacing: 3px;
+  text-decoration: underline;
+  font-weight: 100;
+}
+
 .personal-info {
   display: flex;
   justify-content: center;
