@@ -110,17 +110,42 @@ body {
 .works {
   width: 100%;
 }
+.works-subtitle {
+  width: 100%;
+  text-align: center;
+  background-color: #9bcf53;
+  color: #222;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
 .works__title {
+  width: 100%;
+  text-align: center;
+  background-color: #9bcf53;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  color: #222;
+  padding-top: 20px;
+  word-spacing: 10px;
+  letter-spacing: 8px;
+}
+.works-list {
+  display: flex;
+  gap: 30px;
+  justify-content: center;
+  flex-wrap: wrap;
   width: 100%;
   text-align: center;
   margin-bottom: 50px;
   background-color: #9bcf53;
-  border-radius: 5px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
   color: #222;
-  padding-top: 20px;
+  padding-top: 10px;
   padding-bottom: 20px;
-  word-spacing: 10px;
-  letter-spacing: 8px;
+  padding-right: 25px;
+  padding-left: 25px;
+  font-weight: 700;
 }
 
 .works__collection {
