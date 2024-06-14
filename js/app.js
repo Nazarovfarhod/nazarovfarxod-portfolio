@@ -229,6 +229,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/FN-shop-p-main.git",
     vercelLink: "https://fn-shop-p-main.vercel.app/",
   },
+  {
+    title: "6/2-dars Vazifasi",
+    githubLink: "https://github.com/Nazarovfarhod/6-2-dars-vazifasi.git",
+    vercelLink: "https://6-2-dars-vazifasi.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
