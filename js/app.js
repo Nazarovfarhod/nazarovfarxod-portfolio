@@ -235,12 +235,12 @@ const projects = [
     vercelLink: "https://6-2-dars-vazifasi.vercel.app/",
   },
   {
-    title: "6/4-dars Vazifa2",
+    title: "6/2-dars Vazifa2 Creat User",
     githubLink: "https://github.com/Nazarovfarhod/creat-user-project.git",
     vercelLink: "https://creat-user-project.vercel.app/",
   },
   {
-    title: "6/2-dars Vazifa2 Creat User",
+    title: "6/4-dars Vazifa2 ",
     githubLink: "https://github.com/Nazarovfarhod/44-react-dars.git",
     vercelLink: "https://44-react-dars.vercel.app/",
   },
