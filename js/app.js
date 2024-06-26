@@ -246,8 +246,8 @@ const projects = [
   },
   {
     title: "6/5-dars Vazifa",
-    githubLink: "https://github.com/Nazarovfarhod/Products.git",
-    vercelLink: "https://products-ten-rho.vercel.app/",
+    githubLink: "https://github.com/Nazarovfarhod/5dars-ProductsFN.git",
+    vercelLink: "https://5dars-products-fn.vercel.app/",
   },
 ];
 
