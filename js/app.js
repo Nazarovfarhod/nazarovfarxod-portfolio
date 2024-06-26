@@ -244,6 +244,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/44-react-dars.git",
     vercelLink: "https://44-react-dars.vercel.app/",
   },
+  {
+    title: "6/5-dars Vazifa",
+    githubLink: "https://github.com/Nazarovfarhod/Products.git",
+    vercelLink: "https://products-ten-rho.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
