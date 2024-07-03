@@ -254,6 +254,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/Login-Logout.git",
     vercelLink: "https://login-logout-psi.vercel.app/",
   },
+  {
+    title: "6/8-dars Login and Logout full working",
+    githubLink: "https://github.com/Nazarovfarhod/Login-Logout.git",
+    vercelLink: "https://login-logout-psi.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
