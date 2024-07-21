@@ -269,6 +269,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/Login-Logout.git",
     vercelLink: "https://login-logout-psi.vercel.app/",
   },
+  {
+    title: "6/12-dars Imtihon My Kitchen",
+    githubLink: "https://github.com/Nazarovfarhod/My-kitchen.git",
+    vercelLink: "https://my-kitchen-five.vercel.app/login",
+  },
 ];
 
 const template = document.querySelector("template");
