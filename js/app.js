@@ -274,6 +274,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/My-kitchen.git",
     vercelLink: "https://my-kitchen-five.vercel.app/login",
   },
+  {
+    title: "7/2-dars Sweet Desserts",
+    githubLink: "https://github.com/Nazarovfarhod/Sweet-Desserts.git",
+    vercelLink: "https://sweet-desserts.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
