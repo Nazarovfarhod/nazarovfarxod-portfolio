@@ -279,6 +279,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/Sweet-Desserts.git",
     vercelLink: "https://sweet-desserts.vercel.app/",
   },
+  {
+    title: "7/3-dars Multi Step Form Figmasi",
+    githubLink: "https://github.com/Nazarovfarhod/7-3dars.git",
+    vercelLink: "https://7-3dars.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
