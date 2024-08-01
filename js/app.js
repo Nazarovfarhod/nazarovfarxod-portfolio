@@ -284,6 +284,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/7-3dars.git",
     vercelLink: "https://7-3dars.vercel.app/",
   },
+  {
+    title: "7/4-dars Login and Register done in redux",
+    githubLink: "https://github.com/Nazarovfarhod/Login-and-Register-done-in-redux.git",
+    vercelLink: "https://login-and-register-done-in-redux.vercel.app/login",
+  },
 ];
 
 const template = document.querySelector("template");
