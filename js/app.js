@@ -294,6 +294,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/Quiz.git",
     vercelLink: "https://quiz-dusky-psi.vercel.app/",
   },
+  {
+    title: "7/6-dars My Store in ant and redux",
+    githubLink: "https://github.com/Nazarovfarhod/Login-and-Register-done-in-redux.git",
+    vercelLink: "https://login-and-register-done-in-redux.vercel.app/login",
+  },
 ];
 
 const template = document.querySelector("template");
