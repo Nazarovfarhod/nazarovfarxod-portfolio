@@ -304,12 +304,12 @@ const projects = [
   {
     title: "7/7-dars Next Js My Store",
     githubLink: "https://github.com/Nazarovfarhod/7-7dars-nextJs-Products.git",
-    vercelLink: "https://7-7dars-next-js-products-x76q.vercel.app/",
+    vercelLink: "https://7-7dars-next-js-products.vercel.app/",
   },
   {
     title: "7/8-dars NextJs Books",
     githubLink: "https://github.com/Nazarovfarhod/7-7dars-nextJs-Products.git",
-    vercelLink: "https://7-7dars-next-js-products-x76q.vercel.app/",
+    vercelLink: "https://7-7dars-next-js-products.vercel.app/",
   },
 ];
 
