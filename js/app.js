@@ -311,6 +311,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/7-7dars-nextJs-Products.git",
     vercelLink: "https://7-7dars-next-js-products.vercel.app/",
   },
+  {
+    title: "7/10-dars Tickets",
+    githubLink: "https://github.com/Nazarovfarhod/Tickets.git",
+    vercelLink: "https://tickets-psi-lime.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
