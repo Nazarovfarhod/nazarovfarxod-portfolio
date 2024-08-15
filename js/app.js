@@ -316,6 +316,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/Tickets.git",
     vercelLink: "https://tickets-psi-lime.vercel.app/",
   },
+  {
+    title: "7/11-dars FN Store",
+    githubLink: "https://github.com/Nazarovfarhod/FN-Store-in-Redux.git",
+    vercelLink: "https://fn-store-in-redux.vercel.app/login",
+  },
 ];
 
 const template = document.querySelector("template");
