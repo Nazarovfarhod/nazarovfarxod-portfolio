@@ -321,6 +321,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/FN-Store-in-Redux.git",
     vercelLink: "https://fn-store-in-redux.vercel.app/login",
   },
+  {
+    title: "7/12-dars FN Furniture 'Imtihon'",
+    githubLink: "https://github.com/Nazarovfarhod/Furniture.git",
+    vercelLink: "https://furniture-five-ashy.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
