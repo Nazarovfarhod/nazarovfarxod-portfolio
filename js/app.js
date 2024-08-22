@@ -326,6 +326,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/Furniture.git",
     vercelLink: "https://furniture-five-ashy.vercel.app/",
   },
+  {
+    title: "8/2-dars Mortgage Calculator'",
+    githubLink: "https://github.com/Nazarovfarhod/Mortgage-Calculator.git",
+    vercelLink: "https://mortgage-calculator-beta.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
