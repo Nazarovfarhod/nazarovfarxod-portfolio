@@ -35,6 +35,8 @@ a {
 img {
   object-fit: cover;
   display: flex;
+  max-width: 100%;
+  height: auto;
 }
 
 ul,
@@ -71,8 +73,8 @@ body {
   max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 50px;
-  padding-right: 50px;
+  padding-left: 20px;
+  padding-right: 20px;
   background-color: #222;
 }
 
@@ -95,8 +97,10 @@ body {
 .personal-info__description {
   margin-bottom: 20px;
 }
+
 .personal-info-link {
-  width: 250px;
+  width: 100%;
+  max-width: 250px;
   font-size: small;
   text-align: center;
   color: red;
@@ -113,15 +117,18 @@ body {
 .personal-info {
   display: flex;
   justify-content: center;
-  gap: 50px;
+  gap: 20px;
   width: 100%;
   align-items: center;
   margin-bottom: 70px;
+  flex-wrap: wrap;
 }
 
 .personal-info__avatar {
   border-radius: 50%;
   border: 4px solid #9bcf53;
+  width: 100%;
+  max-width: 150px;
 }
 
 .personal-info__title {
@@ -133,6 +140,7 @@ body {
 .works {
   width: 100%;
 }
+
 .works-subtitle {
   width: 100%;
   text-align: center;
@@ -141,6 +149,7 @@ body {
   padding-top: 10px;
   padding-bottom: 20px;
 }
+
 .works__title {
   width: 100%;
   text-align: center;
@@ -152,6 +161,7 @@ body {
   word-spacing: 10px;
   letter-spacing: 8px;
 }
+
 .works-list {
   display: flex;
   gap: 30px;
@@ -189,20 +199,27 @@ body {
 .works__list {
   position: relative;
   list-style-type: decimal;
-  left: 80px;
+  padding-left: 20px;
+  margin-left: 20px;
 }
+
 .works__list__item {
   padding-left: 10px;
   margin-bottom: 20px;
 }
+
 .works__list__title {
   margin-bottom: 30px;
 }
+
 .works__list__content {
-  width: 700px;
+  width: 100%;
+  max-width: 700px;
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
 }
+
 .works__list__link {
   display: flex;
   align-items: center;
@@ -218,9 +235,10 @@ body {
   transition: color 0.5s ease-in-out;
   border: 2px solid transparent;
   border-radius: 5px;
-  &:active {
-    opacity: 0.8;
-  }
+}
+
+.works__list__link:active {
+  opacity: 0.8;
 }
 
 .works__list__link::before {
@@ -234,7 +252,6 @@ body {
   z-index: -1;
   border-radius: 50%;
   transform: scale(1.5);
-
   transition: transform 0.5s ease-in-out;
 }
 
@@ -246,4 +263,42 @@ body {
 .works__list__link:hover,
 .works__list__link:focus {
   color: #ffffff;
+}
+
+/* Responsivlik uchun */
+@media (max-width: 768px) {
+  .personal-info {
+    flex-direction: column;
+    gap: 20px;
+  }
+
+  .works__list__content {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .works__list {
+    padding-left: 10px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 480px) {
+  .btn {
+    padding: 10px 20px;
+  }
+
+  .container {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .works-list {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+
+  .personal-info__avatar {
+    max-width: 100px;
+  }
 }
