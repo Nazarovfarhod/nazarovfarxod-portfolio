@@ -331,6 +331,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/Mortgage-Calculator.git",
     vercelLink: "https://mortgage-calculator-beta.vercel.app/",
   },
+  {
+    title: "Advice for You",
+    githubLink: "https://github.com/Nazarovfarhod/advice-for-you.git",
+    vercelLink: "https://advice-for-you.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
