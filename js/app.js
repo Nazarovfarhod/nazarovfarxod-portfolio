@@ -171,24 +171,24 @@ const projects = [
   //   githubLink: "https://github.com/Nazarovfarhod/5-3-dars-1-2-AMALIYOTLAR.git",
   //   vercelLink: "https://5-3-dars-1-2-amaliyotlar.vercel.app/",
   // },
+  // {
+  //   title: "Dicee-Challenge",
+  //   githubLink:
+  //     "https://github.com/Nazarovfarhod/Dicee-Challenge---Starting-Files.git",
+  //   vercelLink: "https://dicee-challenge-starting-files-seven.vercel.app/",
+  // },
+  // {
+  //   title: "5-oy/4-dars Vazifasi 'Drum Kit' game.",
+  //   githubLink: "https://github.com/Nazarovfarhod/Drum-Kit-Starting-Files.git",
+  //   vercelLink: "https://drum-kit-starting-files-kappa.vercel.app/",
+  // },
   {
-    title: "Dicee-Challenge",
-    githubLink:
-      "https://github.com/Nazarovfarhod/Dicee-Challenge---Starting-Files.git",
-    vercelLink: "https://dicee-challenge-starting-files-seven.vercel.app/",
-  },
-  {
-    title: "5-oy/4-dars Vazifasi 'Drum Kit' game.",
-    githubLink: "https://github.com/Nazarovfarhod/Drum-Kit-Starting-Files.git",
-    vercelLink: "https://drum-kit-starting-files-kappa.vercel.app/",
-  },
-  {
-    title: "5/5-dars Audio player.",
+    title: " Audio player.",
     githubLink: "https://github.com/Nazarovfarhod/Top-Musics.git",
     vercelLink: "https://top-musics.vercel.app/",
   },
   {
-    title: "5/6-dars Gues my number",
+    title: " Gues my number",
     githubLink: "https://github.com/Nazarovfarhod/Guss-my-number.git",
     vercelLink: "https://guss-my-number.vercel.app/",
   },
@@ -205,7 +205,7 @@ const projects = [
   //   vercelLink: "https://to-do-nine-henna.vercel.app/",
   // },
   {
-    title: "5/8-dars Dice game ",
+    title: " Dice game ",
     githubLink: "https://github.com/Nazarovfarhod/dice-game.git",
     vercelLink: "https://dice-game-seven-orpin.vercel.app/",
   },
@@ -260,7 +260,7 @@ const projects = [
   //   vercelLink: "https://login-logout-psi.vercel.app/",
   // },
   {
-    title: "6/10-dars Products shop",
+    title: " Products shop",
     githubLink: "https://github.com/Nazarovfarhod/Login-Logout.git",
     vercelLink: "https://login-logout-psi.vercel.app/",
   },
@@ -270,12 +270,12 @@ const projects = [
   //   vercelLink: "https://login-logout-psi.vercel.app/",
   // },
   {
-    title: "6/12-dars Imtihon My Kitchen",
+    title: " Imtihon My Kitchen",
     githubLink: "https://github.com/Nazarovfarhod/My-kitchen.git",
     vercelLink: "https://my-kitchen-five.vercel.app/login",
   },
   {
-    title: "7/2-dars Sweet Desserts",
+    title: " Sweet Desserts",
     githubLink: "https://github.com/Nazarovfarhod/Sweet-Desserts.git",
     vercelLink: "https://sweet-desserts.vercel.app/",
   },
@@ -291,12 +291,12 @@ const projects = [
   //   vercelLink: "https://login-and-register-done-in-redux.vercel.app/login",
   // },
   {
-    title: "7/5-dars Quiz project",
+    title: " Quiz project",
     githubLink: "https://github.com/Nazarovfarhod/Quiz.git",
     vercelLink: "https://quiz-dusky-psi.vercel.app/",
   },
   {
-    title: "7/6-dars My Store in ant and redux",
+    title: " My Store in ant and redux",
     githubLink:
       "https://github.com/Nazarovfarhod/Login-and-Register-done-in-redux.git",
     vercelLink: "https://login-and-register-done-in-redux.vercel.app/login",
@@ -312,22 +312,22 @@ const projects = [
   //   vercelLink: "https://7-7dars-next-js-products.vercel.app/",
   // },
   {
-    title: "7/10-dars Tickets",
+    title: " Tickets",
     githubLink: "https://github.com/Nazarovfarhod/Tickets.git",
     vercelLink: "https://tickets-psi-lime.vercel.app/",
   },
   {
-    title: "7/11-dars FN Store",
+    title: "FN Store",
     githubLink: "https://github.com/Nazarovfarhod/FN-Store-in-Redux.git",
     vercelLink: "https://fn-store-in-redux.vercel.app/login",
   },
   {
-    title: "7/12-dars FN Furniture 'Imtihon'",
+    title: " FN Furniture ",
     githubLink: "https://github.com/Nazarovfarhod/Furniture.git",
     vercelLink: "https://furniture-five-ashy.vercel.app/",
   },
   {
-    title: "8/2-dars Mortgage Calculator'",
+    title: "Mortgage Calculator'",
     githubLink: "https://github.com/Nazarovfarhod/Mortgage-Calculator.git",
     vercelLink: "https://mortgage-calculator-beta.vercel.app/",
   },
