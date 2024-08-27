@@ -336,6 +336,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/advice-for-you.git",
     vercelLink: "https://advice-for-you.vercel.app/",
   },
+  {
+    title: "Devfinder",
+    githubLink: "https://github.com/Nazarovfarhod/devfinder.git",
+    vercelLink: "https://devfinder-pink-pi.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
