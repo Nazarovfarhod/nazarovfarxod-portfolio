@@ -341,6 +341,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/devfinder.git",
     vercelLink: "https://devfinder-pink-pi.vercel.app/",
   },
+  {
+    title: "Tip Calculator",
+    githubLink: "https://github.com/Nazarovfarhod/Tip-Calculate.git",
+    vercelLink: "https://tip-calculate-chi.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
