@@ -344,7 +344,7 @@ const projects = [
   {
     title: "Tip Calculator",
     githubLink: "https://github.com/Nazarovfarhod/Tip-Calculate.git",
-    vercelLink: "https://tip-calculate-chi.vercel.app/",
+    vercelLink: "https://tip-calculate-beige.vercel.app/",
   },
 ];
 
