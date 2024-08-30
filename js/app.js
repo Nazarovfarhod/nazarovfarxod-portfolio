@@ -270,15 +270,15 @@ const projects = [
   //   vercelLink: "https://login-logout-psi.vercel.app/",
   // },
   {
-    title: " Imtihon My Kitchen",
+    title: "My Kitchen",
     githubLink: "https://github.com/Nazarovfarhod/My-kitchen.git",
     vercelLink: "https://my-kitchen-five.vercel.app/login",
   },
-  {
-    title: " Sweet Desserts",
-    githubLink: "https://github.com/Nazarovfarhod/Sweet-Desserts.git",
-    vercelLink: "https://sweet-desserts.vercel.app/",
-  },
+  // {
+  //   title: " Sweet Desserts",
+  //   githubLink: "https://github.com/Nazarovfarhod/Sweet-Desserts.git",
+  //   vercelLink: "https://sweet-desserts.vercel.app/",
+  // },
   // {
   //   title: "7/3-dars Multi Step Form Figmasi",
   //   githubLink: "https://github.com/Nazarovfarhod/7-3dars.git",
@@ -295,12 +295,12 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/Quiz.git",
     vercelLink: "https://quiz-dusky-psi.vercel.app/",
   },
-  {
-    title: " My Store in ant and redux",
-    githubLink:
-      "https://github.com/Nazarovfarhod/Login-and-Register-done-in-redux.git",
-    vercelLink: "https://login-and-register-done-in-redux.vercel.app/login",
-  },
+  // {
+  //   title: " My Store in ant and redux",
+  //   githubLink:
+  //     "https://github.com/Nazarovfarhod/Login-and-Register-done-in-redux.git",
+  //   vercelLink: "https://login-and-register-done-in-redux.vercel.app/login",
+  // },
   // {
   //   title: "7/7-dars Next Js My Store",
   //   githubLink: "https://github.com/Nazarovfarhod/7-7dars-nextJs-Products.git",
@@ -326,16 +326,16 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/Furniture.git",
     vercelLink: "https://furniture-five-ashy.vercel.app/",
   },
-  {
-    title: "Mortgage Calculator'",
-    githubLink: "https://github.com/Nazarovfarhod/Mortgage-Calculator.git",
-    vercelLink: "https://mortgage-calculator-beta.vercel.app/",
-  },
-  {
-    title: "Advice for You",
-    githubLink: "https://github.com/Nazarovfarhod/advice-for-you.git",
-    vercelLink: "https://advice-for-you.vercel.app/",
-  },
+  // {
+  //   title: "Mortgage Calculator'",
+  //   githubLink: "https://github.com/Nazarovfarhod/Mortgage-Calculator.git",
+  //   vercelLink: "https://mortgage-calculator-beta.vercel.app/",
+  // },
+  // {
+  //   title: "Advice for You",
+  //   githubLink: "https://github.com/Nazarovfarhod/advice-for-you.git",
+  //   vercelLink: "https://advice-for-you.vercel.app/",
+  // },
   {
     title: "Devfinder",
     githubLink: "https://github.com/Nazarovfarhod/devfinder.git",
