@@ -204,11 +204,11 @@ const projects = [
   //   githubLink: "https://github.com/Nazarovfarhod/to-do.git",
   //   vercelLink: "https://to-do-nine-henna.vercel.app/",
   // },
-  {
-    title: " Dice game ",
-    githubLink: "https://github.com/Nazarovfarhod/dice-game.git",
-    vercelLink: "https://dice-game-seven-orpin.vercel.app/",
-  },
+  // {
+  //   title: " Dice game ",
+  //   githubLink: "https://github.com/Nazarovfarhod/dice-game.git",
+  //   vercelLink: "https://dice-game-seven-orpin.vercel.app/",
+  // },
   // {
   //   title: "5/9-dars Random User",
   //   githubLink: "https://github.com/Nazarovfarhod/random-user.git",
@@ -311,11 +311,11 @@ const projects = [
   //   githubLink: "https://github.com/Nazarovfarhod/7-7dars-nextJs-Products.git",
   //   vercelLink: "https://7-7dars-next-js-products.vercel.app/",
   // },
-  {
-    title: " Tickets",
-    githubLink: "https://github.com/Nazarovfarhod/Tickets.git",
-    vercelLink: "https://tickets-psi-lime.vercel.app/",
-  },
+  // {
+  //   title: " Tickets",
+  //   githubLink: "https://github.com/Nazarovfarhod/Tickets.git",
+  //   vercelLink: "https://tickets-psi-lime.vercel.app/",
+  // },
   {
     title: "FN Store",
     githubLink: "https://github.com/Nazarovfarhod/FN-Store-in-Redux.git",
