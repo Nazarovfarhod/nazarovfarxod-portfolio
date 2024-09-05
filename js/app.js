@@ -346,6 +346,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/Calculator-of-tip.git",
     vercelLink: "https://calculator-of-tip.vercel.app/",
   },
+  {
+    title: "Flag game",
+    githubLink: "https://github.com/Nazarovfarhod/Flag_test.git",
+    vercelLink: "https://flag-test-three.vercel.app/",
+  },
 ];
 
 const template = document.querySelector("template");
