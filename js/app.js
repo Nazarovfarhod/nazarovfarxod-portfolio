@@ -351,6 +351,11 @@ const projects = [
     githubLink: "https://github.com/Nazarovfarhod/Flag_test.git",
     vercelLink: "https://flag-test-three.vercel.app/",
   },
+  {
+    title: "8-oy 9dars",
+    githubLink: "https://github.com/Nazarovfarhod/8-9dars.git",
+    vercelLink: "https://8-9dars-seven.vercel.app/login",
+  },
 ];
 
 const template = document.querySelector("template");
