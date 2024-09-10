@@ -352,7 +352,7 @@ const projects = [
     vercelLink: "https://flag-test-three.vercel.app/",
   },
   {
-    title: "8-oy 9dars",
+    title: "8-oy 8dars va 9dars",
     githubLink: "https://github.com/Nazarovfarhod/8-9dars.git",
     vercelLink: "https://8-9dars-seven.vercel.app/login",
   },
