@@ -354,7 +354,7 @@ const projects = [
   {
     title: "8-oy 8dars va 9dars dan keyingi hamma vazifalar",
     githubLink: "https://github.com/Nazarovfarhod/8-9dars.git",
-    vercelLink: "https://8-9dars-seven.vercel.app/login",
+    vercelLink: "https://flowers-app-seven.vercel.app",
   },
 ];
 
